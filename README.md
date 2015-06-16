@@ -55,4 +55,4 @@ var list = IndexList(['hello', 'world', 'again', 'hello', 'hello', 'world', 'aga
 
 ## License
 
-MIT. See [LICENSE.md](http://github.com/hughsk/index-list/blob/master/LICENSE.md) for details.
+MIT. See [LICENSE.md](http://github.com/nodesource/index-list/blob/master/LICENSE.md) for details.
