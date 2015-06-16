@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/index-list.git"
+    "url": "git://github.com/nodesource/index-list.git"
   },
   "keywords": [
     "minify",
@@ -31,8 +31,8 @@
     "strings",
     "category"
   ],
-  "homepage": "https://github.com/hughsk/index-list",
+  "homepage": "https://github.com/nodesource/index-list",
   "bugs": {
-    "url": "https://github.com/hughsk/index-list/issues"
+    "url": "https://github.com/nodesource/index-list/issues"
   }
 }

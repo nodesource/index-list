@@ -6,11 +6,6 @@
 
 Build up an indexed list of strings. Useful for minimising the size of categorical data when transferring it over the wire.
 
-Used in
-[understanding-npm](https://github.com/nodesource/understanding-npm/) to
-ensure that we don't take up a whole bunch of space trying to list 150,000
-packages' license and prefix data.
-
 ## Usage
 
 [![NPM](https://nodei.co/npm/index-list.png)](https://nodei.co/npm/index-list/)
