@@ -1,6 +1,6 @@
 {
   "name": "index-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build up an indexed list of strings. Useful for minimising the size of categorical data when transferring it over the wire.",
   "main": "index.js",
   "license": "MIT",
