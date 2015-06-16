@@ -1,0 +1,38 @@
+{
+  "name": "index-list",
+  "version": "1.0.0",
+  "description": "Build up an indexed list of strings. Useful for minimising the size of categorical data when transferring it over the wire.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test | tap-spec"
+  },
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {
+    "es6-symbol": "^2.0.1"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/index-list.git"
+  },
+  "keywords": [
+    "minify",
+    "data",
+    "list",
+    "index",
+    "strings",
+    "category"
+  ],
+  "homepage": "https://github.com/hughsk/index-list",
+  "bugs": {
+    "url": "https://github.com/hughsk/index-list/issues"
+  }
+}
